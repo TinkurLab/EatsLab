@@ -3,12 +3,17 @@ Cooking yummy bits and bites...
 
 ## About
 
-## All The Eats
+## Eats
 
-### Apps
 [Clam Bites](/eats/clambites.md)
+[Overnight Waffles](/eats/overnightwaffles.md)
 
-## All The Techniques
+## Larder
+
+[Clarified Butter]()
+
+
+## Techniques
 
 [Temperatures](/techniques/temperatures.md)
 

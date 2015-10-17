@@ -1,4 +1,4 @@
-# Temperatures
+# Clam Bites
 
 back to [root](../README.md)
 

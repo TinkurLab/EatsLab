@@ -1,6 +1,6 @@
 # Temperatures
 
-[back to overview](../README.md)
+back to [root](../README.md)
 
 ## Overview
 
@@ -15,3 +15,5 @@
 | pork			| 140-145 (pink)					|
 | fish			|									|
 | eggs			|									|
+
+back to [root](../README.md)

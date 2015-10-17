@@ -1,6 +1,6 @@
 # Temperatures
 
-(back to overview)[../README.md]
+[back to overview](../README.md)
 
 ## Overview
 

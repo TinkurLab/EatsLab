@@ -5,6 +5,9 @@ Cooking yummy bits and bites...
 
 ## All The Eats
 
+### Apps
+[Clam Bites](/eats/clambites.md)
+
 ## All The Techniques
 
 [Temperatures](/techniques/temperatures.md)

@@ -7,7 +7,7 @@ Cooking yummy bits and bites...
 
 ## All The Techniques
 
-[Temperatures](../techniques/temperatures.md)
+[Temperatures](/techniques/temperatures.md)
 
 ## Help
 

@@ -1,5 +1,5 @@
 # EatsLab
-Cooking yummy bits and bytes...
+Cooking yummy bits and bites...
 
 ## About
 

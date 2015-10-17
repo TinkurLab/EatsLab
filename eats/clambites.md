@@ -20,7 +20,11 @@ back to [root](../README.md)
 
 ## Notes
 
-*You can make the mixture and freeze it, or refrigerate it ahead of time.
+* You can make the mixture and freeze it, or refrigerate it ahead of time.
 * I wonder what cheese would be good to replace the Old English Cheese Spread?
+
+## Photos
+
+## References
 
 back to [root](../README.md)

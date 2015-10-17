@@ -1,6 +1,12 @@
 # EatsLab
 Cooking yummy bits and bytes...
 
+## About
+
+## All The Eats
+
+## All The Techniques
+
 ## Help
 
 ### Markdown

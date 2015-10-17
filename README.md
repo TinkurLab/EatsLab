@@ -1,4 +1,11 @@
 # EatsLab
 Cooking yummy bits and bytes...
 
+## Help
+
+### Markdown
+
+Markdown Cheatsheet
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 All contents of repository licensed under Creative Commons Attribution-NonCommercial 4.0 International.

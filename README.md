@@ -6,6 +6,7 @@ Cooking yummy bits and bites...
 ## Eats
 
 [Clam Bites](/eats/clambites.md)
+
 [Overnight Waffles](/eats/overnightwaffles.md)
 
 ## Larder

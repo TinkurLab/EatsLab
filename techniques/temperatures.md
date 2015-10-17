@@ -4,10 +4,12 @@
 
 ## Specifics
 
-### Meats
+### Proteins
 
 | Thing			| Done Temperature 					|
 | ------------- | --------------------------------- |
 | beef			|									|
 | chicken		| 165								|
-| pork			|									|
+| pork			| 140-145 (pink)					|
+| fish			|									|
+| eggs			|									|

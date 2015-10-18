@@ -6,8 +6,6 @@ back to [root](../README.md)
 
 ## Specifics
 
-### Proteins
-
 | Thing			| Done Temperature 					|
 | ------------- | --------------------------------- |
 | beef			|									|
@@ -15,6 +13,7 @@ back to [root](../README.md)
 | pork			| 140-145 (pink)					|
 | fish			|									|
 | eggs			|									|
+| hot drink (milk) | 165 |
 
 back to [root](../README.md)
 

@@ -8,8 +8,8 @@ back to [root](../README.md)
 
 | Thing			| Done Temperature 					|
 | ------------- | --------------------------------- |
-| beef (rare) | 129 |
-| beef (medium rate)| 135								|
+| beef - steak (rare) | 129 |
+| beef - steak (medium rare)| 135								|
 | chicken		| 165								|
 | pork			| 140-145 (pink)					|
 | fish			|									|

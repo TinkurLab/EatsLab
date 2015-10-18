@@ -8,7 +8,7 @@ back to [root](../README.md)
 Using a Baratza Virtuoso Burr Grinder
 
 | Method | Grind Size |
-| ------------------ | ------------------ |
+| --- | --- |
 | espresso | 2-6 |
 | drip | 13-14|
 | Chemex | 20-21 (25 or higher for darker roasts) |
@@ -18,7 +18,7 @@ Using a Baratza Virtuoso Burr Grinder
 ## Water Ratios 
 
 | Water to Coffee Ratio | Result |
-| ------------------ | ------------------ |
+| --- | --- |
 | 10:1 | strong can't see through it coffee |
 | 15: 1 | medium semi transparent coffee |
 

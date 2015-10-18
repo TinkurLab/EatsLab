@@ -18,6 +18,8 @@ Cooking yummy bits and bites...
 
 [Temperatures](/techniques/temperatures.md)
 
+[Coffee](/techniques/coffee.md)
+
 ## Help
 
 ### Markdown

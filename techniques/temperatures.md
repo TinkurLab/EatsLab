@@ -16,6 +16,7 @@ back to [root](../README.md)
 | eggs			|									|
 | hot drink (milk) | 165 |
 
-back to [root](../README.md)
-
 ## References
+https://www.chefsteps.com/classes/cooking-sous-vide-getting-started#/sous-vide-time-and-temperature-guide
+
+back to [root](../README.md)

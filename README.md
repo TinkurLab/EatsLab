@@ -18,6 +18,8 @@ Cooking yummy bits and bites...
 
 [Temperatures](/techniques/temperatures.md)
 
+[Sous Vide](/techniques/sousvide.md)
+
 [Coffee](/techniques/coffee.md)
 
 ## Help
@@ -26,5 +28,8 @@ Cooking yummy bits and bites...
 
 Markdown Cheatsheet
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+Markdown Editor 
+https://stackedit.io/editor
 
 All contents of repository licensed under Creative Commons Attribution-NonCommercial 4.0 International.

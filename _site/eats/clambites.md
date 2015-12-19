@@ -1,8 +1,3 @@
----
-layout: default
-title: EatsLab Page 2
----
-
 # Clam Bites
 
 back to [root](../README.md)

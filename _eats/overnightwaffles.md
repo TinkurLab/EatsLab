@@ -1,6 +1,11 @@
-# Overnight Waffles
+---
+layout: page
+title: Overnight Waffles
+categories:
+- breakfast
+---
 
-back to [root](../README.md)
+# Overnight Waffles
 
 ## Ingredients
 
@@ -31,5 +36,3 @@ back to [root](../README.md)
 ## References
 
 * Adapted from book "How to Cook Everything"
-
-back to [root](../README.md)

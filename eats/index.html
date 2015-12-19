@@ -1,0 +1,13 @@
+---
+layout: page
+title: Eats Homepage
+---
+
+Pages
+<ul>
+  {% for page in directory %}
+    <li>
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

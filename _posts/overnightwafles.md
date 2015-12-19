@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Overnight Waffles"
+date:   2015-12-19 13:11:10 -0700
+categories: mains, snacks
+---
+
 # Overnight Waffles
 
 back to [root](../README.md)

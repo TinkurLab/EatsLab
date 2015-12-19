@@ -6,8 +6,8 @@
 </description>
     <link>http://eatslab.com/</link>
     <atom:link href="http://eatslab.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Dec 2015 13:52:18 -0700</pubDate>
-    <lastBuildDate>Sat, 19 Dec 2015 13:52:18 -0700</lastBuildDate>
+    <pubDate>Sat, 19 Dec 2015 15:20:51 -0700</pubDate>
+    <lastBuildDate>Sat, 19 Dec 2015 15:20:51 -0700</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -41,6 +41,56 @@
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Page 4</title>
+        <description>&lt;h1 id=&quot;clam-bites&quot;&gt;Clam Bites&lt;/h1&gt;
+
+&lt;p&gt;back to &lt;a href=&quot;../README.md&quot;&gt;root&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;4 oz by weight unsalted butter (needs to be very soft)&lt;/li&gt;
+  &lt;li&gt;1.5 tsp mayonnaise&lt;/li&gt;
+  &lt;li&gt;.75 tsp garlic powder&lt;/li&gt;
+  &lt;li&gt;.5 tsp Kosher salt&lt;/li&gt;
+  &lt;li&gt;1 qty jar Old English Cheese Spread&lt;/li&gt;
+  &lt;li&gt;1 qty can (size??) minced clams drained&lt;/li&gt;
+  &lt;li&gt;6 qty English muffins fork split, halved, and quartered&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;steps&quot;&gt;Steps&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Combine softened butter, mayonnaise, garlic salt and Old English cheese together in small mixing bowl.&lt;/li&gt;
+  &lt;li&gt;Mix in the drained minced clams.&lt;/li&gt;
+  &lt;li&gt;Put a blob of cheese mixture on each piece of English muffin and bake at 350 degrees on a cookie sheet for 10-15 minutes until crispy on bottom. Serve warm.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You can make the mixture and freeze it, or refrigerate it ahead of time.&lt;/li&gt;
+  &lt;li&gt;I wonder what cheese would be good to replace the Old English Cheese Spread?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;photos&quot;&gt;Photos&lt;/h2&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;back to &lt;a href=&quot;../README.md&quot;&gt;root&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 19 Dec 2015 13:11:10 -0700</pubDate>
+        <link>http://eatslab.com/mains,/snacks/2015/12/19/ClamBites.html</link>
+        <guid isPermaLink="true">http://eatslab.com/mains,/snacks/2015/12/19/ClamBites.html</guid>
+        
+        
+        <category>mains,</category>
+        
+        <category>snacks</category>
         
       </item>
     

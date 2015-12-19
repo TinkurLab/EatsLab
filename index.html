@@ -7,4 +7,37 @@ title: EatsLab Welcome
 
 This is the {{ page.title }} page!  Hullo world!
 
+<h1>Posts</h1>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h1>Eats</h1>
+
+<h2>Apps</h2>
+<ul>
+  {% for eats in site.eats %}
+    {% if eats.categories contains 'app' %}
+    <li>
+      <a href="{{ eats.url }}">{{ eats.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<h2>Breakfast</h2>
+<ul>
+  {% for eats in site.eats %}
+    {% if eats.categories contains 'breakfast' %}
+    <li>
+      <a href="{{ eats.url }}">{{ eats.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
 </div>

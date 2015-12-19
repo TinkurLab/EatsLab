@@ -1,11 +1,11 @@
 ---
-layout: default
-title: EatsLab Page 3
+layout: page
+title: Clam Bites
+categories:
+- app
 ---
 
 # Clam Bites
-
-back to [root](../README.md)
 
 ## Ingredients
 
@@ -31,5 +31,3 @@ back to [root](../README.md)
 ## Photos
 
 ## References
-
-back to [root](../README.md)

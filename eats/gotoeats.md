@@ -1,3 +1,8 @@
+---
+layout: page
+title: Go To Eats
+---
+
 # Go To Eats
 
 back to [root](../README.md)

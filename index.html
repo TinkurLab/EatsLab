@@ -1,22 +1,24 @@
 ---
 layout: default
-title: EatsLab Welcome
+title: EatsLab Root
 ---
 
 <div class="home">
 
-This is the {{ page.title }} page!  Hullo world!
-
-<h1>Posts</h1>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+Welcome to EatsLab!  Better cooking through experimentation (and keeping notes).
 
 <h1>Eats</h1>
+
+<h2>Breakfast</h2>
+<ul>
+  {% for page in site.pages %}
+    {% if page.categories contains 'breakfast' %}
+    <li>
+      <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
 <h2>Apps</h2>
 <ul>
@@ -33,6 +35,39 @@ This is the {{ page.title }} page!  Hullo world!
 <ul>
   {% for page in site.pages %}
     {% if page.categories contains 'main' %}
+    <li>
+      <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<h2>Soups</h2>
+<ul>
+  {% for page in site.pages %}
+    {% if page.categories contains 'soups' %}
+    <li>
+      <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<h2>Sides</h2>
+<ul>
+  {% for page in site.pages %}
+    {% if page.categories contains 'sides' %}
+    <li>
+      <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<h2>Drinks</h2>
+<ul>
+  {% for page in site.pages %}
+    {% if page.categories contains 'drinks' %}
     <li>
       <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
     </li>

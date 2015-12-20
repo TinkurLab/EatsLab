@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Go To Eats
+categories:
+- app
 ---
 
 # Go To Eats
 
-back to [root](../README.md)
+
 
 ##Snacks
 Apple w/ Peanut Butter
@@ -123,4 +125,3 @@ Terrine of Meat
 
 Pate Spread
 
-back to [root](../README.md)

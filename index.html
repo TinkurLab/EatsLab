@@ -20,21 +20,33 @@ This is the {{ page.title }} page!  Hullo world!
 
 <h2>Apps</h2>
 <ul>
-  {% for eats in site.eats %}
-    {% if eats.categories contains 'app' %}
+  {% for page in site.pages %}
+    {% if page.categories contains 'app' %}
     <li>
-      <a href="{{ eats.url }}">{{ eats.title }}</a>
+      <a href="{{ page.url }}">{{ page.title }}</a>
     </li>
     {% endif %}
   {% endfor %}
 </ul>
 
-<h2>Breakfast</h2>
+<h2>Mains</h2>
 <ul>
-  {% for eats in site.eats %}
-    {% if eats.categories contains 'breakfast' %}
+  {% for page in site.pages %}
+    {% if page.categories contains 'main' %}
     <li>
-      <a href="{{ eats.url }}">{{ eats.title }}</a>
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<h1>Techniques</h1>
+
+<ul>
+  {% for page in site.pages %}
+    {% if page.categories contains 'techniques' %}
+    <li>
+      <a href="{{ page.url }}">{{ page.title }}</a>
     </li>
     {% endif %}
   {% endfor %}

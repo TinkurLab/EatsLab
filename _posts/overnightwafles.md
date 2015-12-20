@@ -7,7 +7,7 @@ categories: mains, snacks
 
 # Overnight Waffles
 
-back to [root](../README.md)
+
 
 ## Ingredients
 
@@ -39,4 +39,3 @@ back to [root](../README.md)
 
 * Adapted from book "How to Cook Everything"
 
-back to [root](../README.md)

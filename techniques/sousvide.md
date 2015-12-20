@@ -1,6 +1,15 @@
+---
+layout: page
+title: Sous Vide
+categories:
+- techniques
+tags:
+- sousvide
+---
+
 # Sous Vide Temperatures
 
-back to [root](../README.md)
+
 
 ## Overview
 
@@ -16,4 +25,4 @@ back to [root](../README.md)
 ## References
 https://www.chefsteps.com/classes/cooking-sous-vide-getting-started#/sous-vide-time-and-temperature-guide
 
-back to [root](../README.md)
+

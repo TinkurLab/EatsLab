@@ -7,7 +7,7 @@ categories: mains, snacks
 
 # Clam Bites
 
-back to [root](../README.md)
+
 
 ## Ingredients
 
@@ -34,4 +34,3 @@ back to [root](../README.md)
 
 ## References
 
-back to [root](../README.md)

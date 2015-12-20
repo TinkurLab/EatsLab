@@ -6,8 +6,8 @@
 </description>
     <link>http://eatslab.com/</link>
     <atom:link href="http://eatslab.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Dec 2015 15:20:51 -0700</pubDate>
-    <lastBuildDate>Sat, 19 Dec 2015 15:20:51 -0700</lastBuildDate>
+    <pubDate>Sat, 19 Dec 2015 20:37:44 -0700</pubDate>
+    <lastBuildDate>Sat, 19 Dec 2015 20:37:44 -0700</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Sat, 19 Dec 2015 13:11:10 -0700</pubDate>
-        <link>http://eatslab.com/jekyll/update/2015/12/19/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://eatslab.com/jekyll/update/2015/12/19/welcome-to-jekyll.html</guid>
+        <link>http://eatslab.com/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://eatslab.com/welcome-to-jekyll.html</guid>
         
         <category>food,</category>
         
@@ -47,8 +47,6 @@
       <item>
         <title>Page 4</title>
         <description>&lt;h1 id=&quot;clam-bites&quot;&gt;Clam Bites&lt;/h1&gt;
-
-&lt;p&gt;back to &lt;a href=&quot;../README.md&quot;&gt;root&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
@@ -81,11 +79,10 @@
 
 &lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
 
-&lt;p&gt;back to &lt;a href=&quot;../README.md&quot;&gt;root&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 19 Dec 2015 13:11:10 -0700</pubDate>
-        <link>http://eatslab.com/mains,/snacks/2015/12/19/ClamBites.html</link>
-        <guid isPermaLink="true">http://eatslab.com/mains,/snacks/2015/12/19/ClamBites.html</guid>
+        <link>http://eatslab.com/ClamBites.html</link>
+        <guid isPermaLink="true">http://eatslab.com/ClamBites.html</guid>
         
         
         <category>mains,</category>

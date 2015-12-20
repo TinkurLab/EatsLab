@@ -20,12 +20,4 @@ github_username:  tinkurlab
 
 # Build settings
 markdown: kramdown
-# permalink: /:title.html
-
-collections:
-- eats
-
-collections:
-  eats:
-    output: true
-    permalink: /eats/:path/
+permalink: /:title.html

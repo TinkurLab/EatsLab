@@ -1,6 +1,15 @@
+---
+layout: page
+title: Making Coffee
+categories:
+- techniques
+tags:
+- coffee
+---
+
 # Coffee
 
-back to [root](../README.md)
+
 
 ## Overview
 
@@ -25,4 +34,4 @@ Using a Baratza Virtuoso Burr Grinder
 ## References
 http://www.baratza.com/wp-content/uploads/2015/07/Quickstart_Guide_Encore_Virtuoso_and_Preciso_v2.2-3.pdf
 
-back to [root](../README.md)
+

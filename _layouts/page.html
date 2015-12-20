@@ -11,8 +11,21 @@ layout: default
     {{ content }}
   </div>
 
-  ## Categories
+{% if page.categories %}
+<h2>Categories</h2>
+<ul>
+  {% for categories in page.categories %}
+    <li>{{ categories }}</li>
+  {% endfor %}
+</ul>
+{% endif %}
 
-{{ page.categories }}
+{% if page.tags %}
+<h2>Tags</h2>
+  {% for tags in page.tags %}
+    <li>{{ tags }}</li>
+  {% endfor %}
+</ul>
+{% endif %}
 
 </article>

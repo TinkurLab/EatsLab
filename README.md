@@ -1,6 +1,10 @@
 # EatsLab
 Cooking yummy bits and bites...
 
+Brought to you by www.TinkurLab.com
+
+See [License](license.md)
+
 ## About
 
 ## Eats
